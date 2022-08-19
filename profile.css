@@ -1,0 +1,25 @@
+.proimg {
+    margin: 1%;
+    margin-left: 25%;
+    height: 40%;
+    border-radius: 100%;
+}
+
+h3.pro {
+    color: #fff;
+    margin-left: 20%;
+
+}
+
+button.edit {
+    font-size: 20px;
+    height: 5%;
+    width: 5%;
+    background: #ff4500;
+    margin-left: 25%;
+    margin-top: 2%;
+}
+
+button.edit:hover {
+    background: #fa8072;
+}

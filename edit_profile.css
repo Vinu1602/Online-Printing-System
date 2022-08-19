@@ -1,0 +1,83 @@
+body {
+    /* background:#1265e1;*/
+    background: #dda0dd;
+
+}
+
+.card {
+    background: rgba(255, 255, 255, 0.5);
+    border-radius: 5%;
+    margin: 5%;
+    margin-top: 1%;
+    margin-left: 25%;
+    height: 50%;
+    width: 50%;
+}
+
+.form label {
+    margin-top: 25%;
+    margin-left: 20%;
+}
+
+h3 {
+    padding-top: 2%;
+    text-align: center;
+    font-size: 25px;
+}
+
+.uimg {
+    padding-left: 2%;
+}
+
+button {
+    margin-left: 30%;
+    height: 8%;
+    width: 8%;
+    border-radius: 15%;
+}
+
+button:hover {
+    background: #fa8072;
+}
+
+.corner {
+    width: 0;
+    height: 0;
+    border-bottom: 100px solid #AFEEEE;
+    border-right: 100px solid transparent;
+    margin-top: 6%;
+}
+
+.tri {
+    width: 0;
+    height: 0;
+    border-top: 50px solid transparent;
+    border-right: 100px solid #AFEEEE;
+    border-bottom: 50px solid transparent;
+    position: absolute;
+    margin-bottom: 1%;
+}
+
+.tri1 {
+    width: 0;
+    height: 0;
+    border-top: 50px solid transparent;
+    border-right: 100px solid #AFEEEE;
+    border-bottom: 50px solid transparent;
+    position: relative;
+    margin-left: 50%;
+    margin-top: 3.6%;
+
+}
+
+.tri2 {
+    width: 0;
+    height: 0;
+    border-top: 50px solid transparent;
+    border-right: 100px solid #AFEEEE;
+    border-bottom: 50px solid transparent;
+    position: absolute;
+    margin-left: 60%;
+    margin-top: 16%;
+
+}
